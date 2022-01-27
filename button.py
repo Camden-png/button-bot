@@ -53,30 +53,30 @@ describers = [
 patrol_normal = [
 	"encounter a local supervillain, who at first tries to fight but is gradually talked down. The villain may join the Green Team some day...",
 	"battle a powerful villain! It was a close call, but the villain is defeated. Unfortunately, they destroyed quite a bit of property...",
-    "use their powers to perform an impromptu magic show for some tourists. Hey, it's not all life and death.",
+	"use their powers to perform an impromptu magic show for some tourists. Hey, it's not all life and death.",
 	"calm down a man raving about being the king of a violet castle and needing to get back.",
 	"spot some of their fellow heroes patrolling, and decide to travel as a group.",
-    "encounter some thugs, and quickly use their powers to defeat them.",
+	"encounter some thugs, and quickly use their powers to defeat them.",
 	"use their powers to stop a robbery in progress.",
 	"brood on the rooftops for a few hours.",
 	"help an old woman cross the street.",
 	"safely evacuate a burning building.",
 	"help a blue buddy in need.",
 	"have an uneventful time."
-    ]
+   	 ]
 
 patrol_rare = [
 	"run into a pale man with a tall head claiming to be 'Glue Man' and asking to join Green Team. They tell him that he has to click the Button, and he says that his hands are too sticky to. They tell him to 'stick' to solo crime fighting then.",
-    "encounter a woman in a fedora, who moves with terrifying efficiency. She stares coldly at them as a square portal opens behind her and she steps through. It closes before they can follow.",
-	"uncover a strange clue - an orange business card with no writing on it. Why would someone make that?",
-    ]
+	"encounter a woman in a fedora, who moves with terrifying efficiency. She stares coldly at them as a square portal opens behind her and she steps through. It closes before they can follow.",
+	"uncover a strange clue - an orange business card with no writing on it. Why would someone make that?"
+	]
 
 explosion_gifs = [
-                "https://cdn.discordapp.com/attachments/850026672441917501/850429047754063902/Explosion1.gif",
-				"https://cdn.discordapp.com/attachments/850026672441917501/850429037758906398/Explosion2.gif",
-				"https://cdn.discordapp.com/attachments/850026672441917501/850429027671212052/Explosion3.gif",
-				"https://cdn.discordapp.com/attachments/850026672441917501/850429020876832768/Explosion4.gif"
-				]
+	"https://cdn.discordapp.com/attachments/850026672441917501/850429047754063902/Explosion1.gif",
+	"https://cdn.discordapp.com/attachments/850026672441917501/850429037758906398/Explosion2.gif",
+	"https://cdn.discordapp.com/attachments/850026672441917501/850429027671212052/Explosion3.gif",
+	"https://cdn.discordapp.com/attachments/850026672441917501/850429020876832768/Explosion4.gif"
+	]
 
 intents = discord.Intents.default()
 intents.members = True
